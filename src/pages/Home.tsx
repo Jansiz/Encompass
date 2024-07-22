@@ -18,7 +18,7 @@ const Home : React.FC = () =>{
               <span className="sr-only">Encompass</span>
               <img
                 alt="Encompass logo"
-                src="./src/assets/images/compass-icon.png"
+                src="images/compass-icon.png"
                 className="h-8 w-auto"
               />
             </a>
@@ -54,7 +54,7 @@ const Home : React.FC = () =>{
                 <span className="sr-only">Encompass</span>
                 <img
                   alt=""
-                  src="Encompass-project/src/assets/images/compass-icon.png"
+                  src="/images/compass-icon.png"
                   className="h-8 w-auto"
                 />
               </a>
@@ -113,7 +113,7 @@ const Home : React.FC = () =>{
           <div className="text-center">
           <img
                   alt=""
-                  src="./src/assets/images/Encompass-Logo.png"
+                  src="/images/Encompass-Logo.png"
                   className=" w-auto"
                 />
             {/* <h1 className="text-4xl font-bold tracking-tight sm:text-6xl text-blue-400">
