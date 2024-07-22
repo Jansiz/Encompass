@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import Nav from './nav';
 
 const Questionnaire = () => {
   useEffect(() => {
@@ -13,6 +14,8 @@ const Questionnaire = () => {
   }, []);
 
   return (
+    <>
+    <Nav />
     <div className="min-h-screen flex flex-col items-center justify-center bg-background text-fontColor">
       <main className="flex-1 flex flex-col items-center justify-center p-4">
         <div data-tf-live="01J39GMB36TP5SH8Q437J0J3CC" className="w-full h-full"></div>
@@ -21,6 +24,7 @@ const Questionnaire = () => {
         <p className="text-sm text-secondaryText">&copy; 2024 Encompass. All rights reserved.</p>
       </footer>
     </div>
+    </>
   );
 };
 
