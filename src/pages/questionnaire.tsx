@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import Nav from './nav';
+import Nav from './components/nav';
 
 const Questionnaire = () => {
   useEffect(() => {
