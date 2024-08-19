@@ -1,6 +1,6 @@
 <h1> ENCOMPASS </h1>
 
-<h3>check out Encompass: <a href="aiencompass.com">aiencompass.com</a></h3>
+<h3>check out Encompass: <a href="www.aiencompass.com">aiencompass.com</a></h3>
 <h2> System Architecture Overview </h2>
 <br>
 
